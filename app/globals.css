@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { color-scheme: dark; -webkit-tap-highlight-color: transparent; }
+body { background: #0B0B0B; color: #fff; }
+::selection { background: #FF2DA8; color: #0B0B0B; }
